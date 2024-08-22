@@ -10,7 +10,7 @@ function card(key,title,image) {
          <div className='contant'>
          <h3>{title}</h3>
          <p></p>
-         <p><b>price = notdefine</b></p>
+         <p><b>price = $</b></p>
          </div>
     </div>
     )
